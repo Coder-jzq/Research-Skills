@@ -1,0 +1,4 @@
+interface:
+  display_name: "AnAn Paper Reader"
+  short_description: "Structured Chinese academic paper reader"
+  default_prompt: "Use $anan-paper-reader to read this paper PDF and produce a structured Chinese paper-reading summary."
